@@ -5,9 +5,7 @@ Finally I will make helpfull visuals to help mw with my presentation, then creat
 # 2
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 # 3
-For this dataset there will be no difference between the student retention, dropout rates, and
-academic success.
-For this dataset there will be a difference in the outcomes related to student retention, dropout
-rates, and academic success.
+Null hypothesis: For this dataset there will be no difference between the student retention, dropout rates, and academic success.
+Alternate hypothesis: For this dataset there will be a difference in the outcomes related to student retention, dropout rates, and academic success.
 # 4
 I plan on applying KNN and logistic regression models, and potentially random forest.
